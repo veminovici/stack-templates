@@ -84,7 +84,7 @@ main :: IO ()
 main = someFunc
 
 {-# START_FILE README.md #-}
-# {{name}}
+# Simplee::Haskell - Project {{name}}
 
 {-# START_FILE CHANGELOG.md #-}
 # Changelog for `{{ name }}`
